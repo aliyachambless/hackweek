@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hack-week/static/css/main.d86f36cc.chunk.css",
+    "main.js": "/hack-week/static/js/main.11ecd5fd.chunk.js",
+    "main.js.map": "/hack-week/static/js/main.11ecd5fd.chunk.js.map",
+    "runtime-main.js": "/hack-week/static/js/runtime-main.aeb4abf1.js",
+    "runtime-main.js.map": "/hack-week/static/js/runtime-main.aeb4abf1.js.map",
+    "static/js/2.9b7b49ac.chunk.js": "/hack-week/static/js/2.9b7b49ac.chunk.js",
+    "static/js/2.9b7b49ac.chunk.js.map": "/hack-week/static/js/2.9b7b49ac.chunk.js.map",
+    "static/js/3.eccfede5.chunk.js": "/hack-week/static/js/3.eccfede5.chunk.js",
+    "static/js/3.eccfede5.chunk.js.map": "/hack-week/static/js/3.eccfede5.chunk.js.map",
+    "index.html": "/hack-week/index.html",
+    "static/css/main.d86f36cc.chunk.css.map": "/hack-week/static/css/main.d86f36cc.chunk.css.map",
+    "static/js/2.9b7b49ac.chunk.js.LICENSE.txt": "/hack-week/static/js/2.9b7b49ac.chunk.js.LICENSE.txt",
+    "static/media/Ladi-Dense.8dffd513.otf": "/hack-week/static/media/Ladi-Dense.8dffd513.otf",
+    "static/media/Ladi-Gross.ff1391b7.otf": "/hack-week/static/media/Ladi-Gross.ff1391b7.otf",
+    "static/media/Ladi-Weak.ed726be1.otf": "/hack-week/static/media/Ladi-Weak.ed726be1.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aeb4abf1.js",
+    "static/js/2.9b7b49ac.chunk.js",
+    "static/css/main.d86f36cc.chunk.css",
+    "static/js/main.11ecd5fd.chunk.js"
+  ]
+}
